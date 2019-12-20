@@ -1,0 +1,862 @@
+{
+  "bpm": 120,
+  "totalScore": 1000,
+  "bgm": "Sophomore Makeout.waw",
+  "gameContent": [
+    {
+      "times": 3602,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 3957,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 4326,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 4663,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 4853,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 5025,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 5369,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 5578,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 5909,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 6265,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 6424,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 6786,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 7326,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 7676,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 8185,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 8541,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 8879,
+      "string": 6,
+      "type": 0
+    },
+    {
+      "times": 9222,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 9418,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 9780,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 10130,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 10296,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 10486,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 11008,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 11357,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 11541,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 11732,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 11971,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 12419,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 12777,
+      "string": 6,
+      "type": 0
+    },
+    {
+      "times": 13127,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 13483,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 13820,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 14029,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 14526,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 14888,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 15238,
+      "string": 6,
+      "type": 0
+    },
+    {
+      "times": 15600,
+      "string": 6,
+      "type": 0
+    },
+    {
+      "times": 15956,
+      "string": 6,
+      "type": 0
+    },
+    {
+      "times": 16318,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 16668,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 17011,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 17361,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 17723,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 18054,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 18254,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 18478,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 18766,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 18966,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 19293,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 19649,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 19851,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 20201,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 21072,
+      "string": 6,
+      "type": 0
+    },
+    {
+      "times": 21612,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 21956,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 22300,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 22649,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 23005,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 23338,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 23713,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 24075,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 24412,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 25124,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 25474,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 25836,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 26173,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 26535,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 27081,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 27425,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 27783,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 28126,
+      "string": 6,
+      "type": 0
+    },
+    {
+      "times": 28470,
+      "string": 6,
+      "type": 0
+    },
+    {
+      "times": 28814,
+      "string": 6,
+      "type": 0
+    },
+    {
+      "times": 29200,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 29538,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 29900,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 30225,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 30618,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 30974,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 31317,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 31673,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 31949,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 32194,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 32568,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 32900,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 33256,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 33593,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 33943,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 34299,
+      "string": 6,
+      "type": 0
+    },
+    {
+      "times": 34549,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 35181,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 35375,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 35719,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 35919,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 36418,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 36612,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 36983,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 37310,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 37837,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 38014,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 38219,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 38535,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 38752,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 38952,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 39240,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 39600,
+      "string": 6,
+      "type": 0
+    },
+    {
+      "times": 39955,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 40316,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 40653,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 40847,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 41363,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 41596,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 42078,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 42444,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 42781,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 43158,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 43469,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 43668,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 44179,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 44373,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 44595,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 44872,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 45066,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 45310,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 45565,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 45815,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 46020,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 46314,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 47013,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 47374,
+      "string": 6,
+      "type": 0
+    },
+    {
+      "times": 47729,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 48089,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 48422,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 48882,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 49328,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 49716,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 50198,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 50537,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 50870,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 51241,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 51474,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 51679,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 52140,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 52672,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 52949,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 53380,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 53970,
+      "string": 6,
+      "type": 0
+    },
+    {
+      "times": 54784,
+      "string": 6,
+      "type": 0
+    },
+    {
+      "times": 55157,
+      "string": 6,
+      "type": 0
+    },
+    {
+      "times": 55487,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 55828,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 56189,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 56546,
+      "string": 6,
+      "type": 0
+    },
+    {
+      "times": 56892,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 57259,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 57603,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 57970,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 58305,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 58667,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 59039,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 59427,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 59794,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 60172,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 60432,
+      "string": 1,
+      "type": 0
+    },
+    {
+      "times": 61108,
+      "string": 2,
+      "type": 0
+    },
+    {
+      "times": 61480,
+      "string": 3,
+      "type": 0
+    },
+    {
+      "times": 62023,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 62416,
+      "string": 5,
+      "type": 0
+    },
+    {
+      "times": 63432,
+      "string": 4,
+      "type": 0
+    },
+    {
+      "times": 63948,
+      "string": 3,
+      "type": 0
+    }
+  ]
+}
